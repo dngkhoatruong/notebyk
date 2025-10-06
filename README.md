@@ -4,6 +4,13 @@ A simple and elegant **React Native** app for managing categorized notes offline
 
 ---
 
+## 🎬 Quick Preview
+
+Here’s a quick look at the app in action 👇  
+https://drive.google.com/file/d/1fLj-CwU6OuZrDKjxZ7JFEdk0xBHCow17/view?usp=sharing
+
+---
+
 ## 📦 Installation
 
 ```bash
@@ -132,7 +139,7 @@ src/
 
 ```
 
---
+---
 
 ## 🧭 Upcoming Features / Future Plans
 
