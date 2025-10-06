@@ -8,7 +8,7 @@ A simple and elegant **React Native** app for managing categorized notes offline
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/note-app.git
+git clone https://github.com/dngkhoatruong/notebyk.git
 cd note-app
 
 # 2. Install dependencies
@@ -131,3 +131,28 @@ src/
 └── App.tsx                         # App entry point (wraps store, navigation, Toast)
 
 ```
+
+--
+
+## 🧭 Upcoming Features / Future Plans
+
+Here are some features planned for future releases or if more time is available:
+
+### 🧪 Unit tests and E2E tests
+
+Add testing coverage for reducers, mappers, and UI flows to improve code reliability.
+
+### 🗂️ Add tags & search by keyword
+
+Allow filtering and searching notes by tag or content.
+
+### 🧭 Improved summary dashboard
+
+Provide analytics by category, and visualize user activity with charts.
+
+---
+
+## 🙏 Finally
+
+Your feedback means a lot!  
+Thank you for taking the time to explore this project!
