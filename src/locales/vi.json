@@ -1,0 +1,54 @@
+{
+  "common": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "add": "Thêm",
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "confirm": "Xác nhận",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "categories": {
+    "workAndStudy": "Công việc và Học tập",
+    "life": "Cuộc sống",
+    "healthAndWellbeing": "Sức khỏe và Hạnh phúc"
+  },
+  "notes": {
+    "title": "Ghi chú",
+    "newNote": "Ghi chú mới",
+    "editNote": "Sửa ghi chú",
+    "deleteNote": "Xóa ghi chú",
+    "noteContent": "Nội dung ghi chú",
+    "selectCategory": "Chọn danh mục",
+    "noNotes": "Chưa có ghi chú nào",
+    "createFirstNote": "Tạo ghi chú đầu tiên",
+    "searchNotes": "Tìm kiếm ghi chú...",
+    "allCategories": "Tất cả danh mục"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "newNote": "Ghi chú mới",
+    "summary": "Tóm tắt",
+    "settings": "Cài đặt"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "signUp": "Đăng ký",
+    "welcome": "Chào mừng"
+  },
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "invalidEmail": "Vui lòng nhập email hợp lệ",
+    "passwordTooShort": "Mật khẩu phải có ít nhất 6 ký tự",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "passwordsDoNotMatch": "Mật khẩu không khớp"
+  }
+}

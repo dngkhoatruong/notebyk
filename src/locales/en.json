@@ -1,0 +1,54 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "categories": {
+    "workAndStudy": "Work and Study",
+    "life": "Life",
+    "healthAndWellbeing": "Health and Well-being"
+  },
+  "notes": {
+    "title": "Notes",
+    "newNote": "New Note",
+    "editNote": "Edit Note",
+    "deleteNote": "Delete Note",
+    "noteContent": "Note Content",
+    "selectCategory": "Select Category",
+    "noNotes": "No notes yet",
+    "createFirstNote": "Create your first note",
+    "searchNotes": "Search notes...",
+    "allCategories": "All Categories"
+  },
+  "navigation": {
+    "home": "Home",
+    "newNote": "New Note",
+    "summary": "Summary",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "signUp": "Sign Up",
+    "welcome": "Welcome"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "confirmPassword": "Confirm Password",
+    "passwordsDoNotMatch": "Passwords do not match"
+  }
+}
